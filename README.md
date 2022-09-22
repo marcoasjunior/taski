@@ -21,6 +21,9 @@ $ npm run start
 
 ## Comentários
 
-- O CRUD tanto de usuário (users) quanto de tarefas (tasks) estão funcionando
+- O CRUD tanto de usuário (users) quanto de tarefas (tasks) estão funcionando;
+- Estrutura inicial feita;
+- Autorização por JWT token preparada para ser implementada
+- Nestjs + MongoDB
 
 
